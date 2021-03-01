@@ -1,0 +1,13 @@
+B42
+
+Attributes:
+airline = "Delta"
+isBoarding = false
+departureTime = "6:20am"
+boardingGroup = 1
+
+Methods:
+changeAirline: airline = Frontier
+beginBoarding: isBoarding = true
+delayFlight: departureTime = "6:40am"
+changeGroup: boardingGroup = 2
