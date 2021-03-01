@@ -1,0 +1,9 @@
+var movie = "Lion"
+var isEntertaining = true
+movie = "Second Hand Lions"
+var num4 = 44
+var num6 = 66
+var product = num4*num6
+var favoriteFoods = ["donuts", "chips", "cookies"]
+var removeFood = favoriteFoods.shift()
+var numCharacters = movie.length
