@@ -1,0 +1,14 @@
+Class:
+Gate
+
+Attributes:
+airline (string)
+isBoarding (boolean)
+departureTime (string)
+boardingGroup (integer)
+
+Methods:
+changeAirline (changes airline to different airline)
+beginBoarding (changes isBoarding to true)
+delayFlight (changes departureTime to 20 minutes later)
+changeGroup (adds 1 to the boardingGroup)
