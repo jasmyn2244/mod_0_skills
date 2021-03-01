@@ -1,0 +1,12 @@
+Starbucks
+
+type = "Coffee House"
+foodSold = ["coffee", "egg bites", "muffins"]
+isOpen = true
+currentCapacity = 15
+hasPermit = true
+
+addFood: foodSold = ["coffee", "egg bites", "muffins", "salads"]
+closeStand: isOpen = false
+increaseCurrentCapacity: currentCapacity = 16
+revokePermit: hasPermit = false
