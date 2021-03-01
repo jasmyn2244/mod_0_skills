@@ -1,0 +1,14 @@
+Class: FoodStand
+
+Attributes:
+type (string)
+foodSold (array)
+isOpen (boolean)
+currentCapacity (integer)
+hasPermit (boolean)
+
+Methods:
+addFood (adds new food to the foodSold array)
+closeStand (changes isOpen to false)
+increaseCurrentCapacity (adds 1 to currentCapacity)
+revokePermit (changes hasPermit to false)
